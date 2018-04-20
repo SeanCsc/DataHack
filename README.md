@@ -1,6 +1,6 @@
 # DataHack-Yale-2018
 
-Data Hackthon Challenge
+Data Hackthon Challenge (Second Place)
 ```
 ENJOY SOLVING REAL PROBLEM
 ```
