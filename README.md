@@ -42,6 +42,9 @@ Next task is to get PPE for fairfield. PPE is the expenditure for each person. I
 invest on the education. In this part we need to solve two problems: check which features are related to PPE. Predict PPE for 
 Fairfield and compare the result. (which is used to see if the model is robust)
 
+Use Lasso model and random forest to see the feature importance.
+
+And compare the results of these two models.
 #### Last but not least: compare the real estat market of Fairfield with other peers. Explore the relationship between educational funding and real estat market. 
 **Box Plot** - Although Fairfield ranked higher, the trend is not so good.
 
